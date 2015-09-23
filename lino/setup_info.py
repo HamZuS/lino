@@ -108,8 +108,6 @@ lino.modlib.cal.management
 lino.modlib.cal.management.commands
 lino.modlib.cal.workflows
 lino.modlib.changes
-lino.modlib.clocking
-lino.modlib.clocking.fixtures
 lino.modlib.comments
 lino.modlib.concepts
 lino.modlib.contacts
@@ -120,11 +118,9 @@ lino.modlib.gfks
 lino.modlib.gfks.fixtures
 lino.modlib.countries
 lino.modlib.countries.fixtures
-lino.modlib.courses
 lino.modlib.cv
 lino.modlib.cv.fixtures
 lino.modlib.davlink
-lino.modlib.declarations
 lino.modlib.dupable_partners
 lino.modlib.dupable_partners.fixtures
 lino.modlib.eid_jslib
@@ -185,8 +181,6 @@ lino.modlib.statbel.countries.fixtures
 lino.modlib.system
 lino.modlib.system.tests
 lino.modlib.thirds
-lino.modlib.tickets
-lino.modlib.tickets.fixtures
 lino.modlib.tinymce
 lino.modlib.tinymce.fixtures
 lino.modlib.uploads
